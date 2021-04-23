@@ -1,0 +1,15 @@
+Brand,Model,Drivetmercedes,HP,Fast
+BMW,3series,awd,high,no
+BMW,3series,awd,low,no
+audi,3series,awd,high,yes
+mercedes,g-class,awd,high,yes
+mercedes,c-class,fwd,high,yes
+mercedes,c-class,fwd,low,no
+audi,c-class,fwd,low,yes
+BMW,g-class,awd,high,no
+BMW,c-class,fwd,high,yes
+mercedes,g-class,fwd,high,yes
+BMW,g-class,fwd,low,yes
+audi,g-class,awd,low,yes
+audi,3series,fwd,high,yes
+mercedes,g-class,awd,low,no
